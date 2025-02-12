@@ -70,8 +70,8 @@ await conn.sendMessage(from,{image:{url:`https://i.ibb.co/SNvbJvY/Manul-Ofc-X.jp
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363189714152560@newsletter',
-      newsletterName: 'SILENT-SOBX-MD',
+      newsletterJid: '120363378635880298@newsletter',
+      newsletterName: 'AKINDUMD',
       serverMessageId: 999
     }
   }
